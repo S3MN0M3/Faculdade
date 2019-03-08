@@ -16,7 +16,8 @@ int main() {
 	cout << "Digite o terceiro numero: " << endl;
 	cin >> arg3;
 	
-	float total = arg1 + arg2 + arg3 / 3;
+	float semi_total = arg1 + arg2 + arg3 / 3;
+	float total = semi_total / 3;
 	
 	cout << "Media = "<< total;
 	return 0;
