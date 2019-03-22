@@ -1,8 +1,8 @@
 /*
-1 – Faça um algoritmo que leia a quantidade de produtos vendidos em uma loja e armazene em uma variável
-(intero), o preço dos produtos (float) e a quantidade de parcelas (inteiro).
+1 ï¿½ Faï¿½a um algoritmo que leia a quantidade de produtos vendidos em uma loja e armazene em uma variï¿½vel
+(intero), o preï¿½o dos produtos (float) e a quantidade de parcelas (inteiro).
 
-mprimir o valor total da compra (quantidade de produtos vendidos * preço de cada produto), valor de cada parcela
+mprimir o valor total da compra (quantidade de produtos vendidos * preï¿½o de cada produto), valor de cada parcela
 (total da compra / quantidade de parcelas).
 */
 

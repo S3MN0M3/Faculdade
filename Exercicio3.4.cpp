@@ -1,4 +1,6 @@
 #include <iostream>
+#include <iomanip>
+#include <math.h>
 
 /*
 Faça um programa em C++ que recebe 5 valores.
@@ -24,8 +26,17 @@ int main() {
     float d = 56.623;
     int e = 24;
 
-    float teste_b = ("{:.2f}";
-    cout << teste_b << endl;
+    cout << fixed << setprecision(1) << b << "\n";
+    cout << fixed << setprecision(2) << c << "\n";
+    cout << (char)a << "\n";
+    cout << fixed << setprecision(2) << c * d * e << "\n";
+    cout << fixed << setprecision(1) << d / e << "\n";
+    cout << a % e << "\n";
+    cout << fixed << setprecision(2) << sqrt(c) << "\n";
+    cout << b - c << "\n";
+    cout << fixed << setprecision(1) << a + b + c + d << "\n";
+    cout << fixed << setprecision(0) << c * e << "\n";
+
 
 	return 0;
 }
