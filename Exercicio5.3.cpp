@@ -1,9 +1,9 @@
 #include <iostream>
 
 /*
-Escreva um algoritmo para ler as notas das duas avaliações de um aluno no semestre, calcular e
-escrever a média semestral e a seguinte mensagem: ‘PARABÉNS! Você foi aprovado’ somente se
-o aluno foi aprovado (considere 6.0 a nota mínima para aprovação). 
+Escreva um algoritmo para ler as notas das duas avaliaï¿½ï¿½es de um aluno no semestre, calcular e
+escrever a mï¿½dia semestral e a seguinte mensagem: ï¿½PARABï¿½NS! Vocï¿½ foi aprovadoï¿½ somente se
+o aluno foi aprovado (considere 6.0 a nota mï¿½nima para aprovaï¿½ï¿½o). 
 */
 using namespace std;
 

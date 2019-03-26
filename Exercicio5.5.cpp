@@ -1,10 +1,10 @@
 #include <iostream>
 
 /*
-Escreva um algoritmo para ler as notas das duas avaliações de um aluno no semestre, calcular e
-escrever a média semestral. Se a média for maior que 6.0 imprimir a mensagem “APROVADO”. Se
-a média for menor que 6.0 e maior que 3.0, imprimir a mensagem “EXAME”, se a média for menor
-que 3.0 imprimir a mensagem “REPROVADO”.
+Escreva um algoritmo para ler as notas das duas avaliaï¿½ï¿½es de um aluno no semestre, calcular e
+escrever a mï¿½dia semestral. Se a mï¿½dia for maior que 6.0 imprimir a mensagem ï¿½APROVADOï¿½. Se
+a mï¿½dia for menor que 6.0 e maior que 3.0, imprimir a mensagem ï¿½EXAMEï¿½, se a mï¿½dia for menor
+que 3.0 imprimir a mensagem ï¿½REPROVADOï¿½.
 */
 using namespace std;
 int main() {

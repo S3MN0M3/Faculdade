@@ -1,7 +1,7 @@
 #include <iostream>
 
 /*
-Acrescente ao exercício acima a mensagem ‘Você foi REPROVADO! Estude mais’ caso a média
+Acrescente ao exercï¿½cio acima a mensagem ï¿½Vocï¿½ foi REPROVADO! Estude maisï¿½ caso a mï¿½dia
 calculada seja menor que 6,0.
 */
 using namespace std;
@@ -22,7 +22,7 @@ int main() {
 		cout << "Sua media: " << conta;
 	}
 	else{
-		cout << "Você foi REPROVADO! Estude mais" << endl;
+		cout << "Voce foi REPROVADO! Estude mais" << endl;
 		cout << "Sua media: " << conta;
 	}
 	
