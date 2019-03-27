@@ -1,0 +1,20 @@
+20. Um computador é capaz de resolver qualquer problema? Cite um exemplo e explique.
+
+21. Cite três áreas da Ciência da Computação que tenham lhe chamado a atenção. Explique o que cada uma estuda.
+Cite um exemplo de problema que já foi ou que possa vir a ser resolvido por estas áreas.
+
+22. O caminhão de uma empresa de transportes precisa fazer entregas em cinco cidades diferentes e depois retornar à cidade de origem, percorrendo a menor distância, sem passar duas vezes pela mesma cidade. Na figura abaixo, considere que os números dentro dos círculos representam as cidades e os números nas linhas representam a distância. Partindo da cidade número 1, qual o melhor caminho a ser percorrido? Explique seu raciocínio.
+
+23. Quais as principais partes de um computador?
+
+24. Quais as diferenças entre a memória RAM e o armazenamento em disco?
+
+25. Quais as principais diferenças entre um HD convencional e um SSD?
+
+                                            RESPOSTAS
+
+20 - Nao, "P=NP?"
+o problema de multiplicar duas matrizes de n fileiras e colunas pode ser resolvido utilizando menos de n3 multiplicações.
+Nenhum dos problemas intratáveis está na classe P.
+
+21 - 

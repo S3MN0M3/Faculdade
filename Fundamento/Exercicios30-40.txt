@@ -1,0 +1,76 @@
+Aula 3 - Organização de Computadores
+
+30. A CPU (unidade central de processamento) pode ser a combinação de:
+
+A. unidade de entrada e memória.
+B. unidade lógica e unidade de saída.
+C. microprocessador e microcontrolador.
+D. unidades lógicas / aritmética e controle.
+E. unidade de memória e unidade de lógica.
+
+31. Com relação a computadores, julgue os itens que se seguem. A memória RAM possibilita a leitura rápida de dados pelo computador, porém os dados nela armazenados são apagados assim que a máquina é desligada. A memória ROM, contudo, é não volátil e retém todos os programas necessários para o boot do computador durante o carregamento do sistema operacional.
+
+C. Certo
+E. Errado
+32. O que é a Arquitetura de Von Neumann?
+
+33. O que é memória primária de um computador?
+
+34. O que é memória secundária de um computador?
+
+35. O que é memória cache? Quantos níveis de cache existem num computador moderno?
+
+36. O que são SRAM e DRAM? Quais as aplicações de cada uma?
+
+37. Identifique os conectores do gabinete abaixo. Referência
+
+38. Imagine que você recebeu um computador para trabalhar que possui três portas USB (duas com versão 1.0 e uma com versão 2.0), e Bluetooth. Você precisa comprar os seguintes periféricos: mouse, teclado, pendrive de 16 GB e fone de ouvidos. Considerando a velocidade de transmissão de dados e o menor custo, responda as perguntas abaixo:
+Qual dispositivo você compraria sem fio para usar com Bluetooth?
+Qual dispositivo você conectaria em qual porta?
+
+39. Explique como será o USB 4.
+
+40. Descreva as principais características do Bluetooth 5. (Sugestão de referência).
+
+
+                                                RESPOSTAS
+
+30 - D
+
+31 - Certo
+
+32 - A Arquitetura de von Neumann é uma arquitetura de computador que se caracteriza pela possibilidade de uma máquina digital
+armazenar seus programas no mesmo espaço de memória que os dados, podendo assim manipular tais programas.
+
+33 - Memória são todos os dispositivos que permitem a um computador guardar dados, temporariamente ou permanentemente.
+memória real: Sua principal função é conter as informações necessárias para o processador num determinado momento, sem elas o computador não pode funcionar.
+
+34 - A memória secundária é a memória de armazenamento permanente, que armazena os dados permanentemente no sistema, sem a necessidade de energia elétrica e, por esse motivo, conhecida como memória não volátil.
+Ela funciona como complemento da memória principal para guardar dados.
+
+35 - A memória cache é uma pequena quantidade de memória localizada perto do processador.
+Surgiu quando a memória RAM não estava mais acompanhando o desenvolvimento do processador.
+Existem 3 tipos de Cache, conhecidos como L1 (primário) e L2 (secundário) e o L3, que atua como secundária também.
+Os três são embutidos no processador (antigamente somente o L1 era), já que a distancia física poderia interferir na transferência de dados.
+A cada novo processador, é desenvolvido um novo tipo de memória Cache para acompanhar a velocidade do processador.
+
+36 - SRAM E DRAM é um tipo de memória RAM de acesso direto que armazena cada bit de dados num condensador ou capacitor.
+O número de elétrons armazenados no condensador determina se o bit é considerado 1 ou 0
+
+A SRAM é mais cara, mais rápida, e ocupa mais espaço que a DRAM, o que faz com que a SRAM seja usada para criar uma memória mais próxima do processador, a cache.
+enquanto que a DRAM é usada para fazer os módulos de RAM, fornecendo uma muito maior quantidade de RAM ao sistema.
+
+37 -
+(1) LAN(Conector de rede). (2) USB (3) VGA (D-Sub) (4) DVI (5) HDMI (6) S/PDIF (7) eSATA (8) JACK DE ÁUDIO (três conectores e 5.1) (9) PS/2 (10) PORTA SERIAL
+(11) PORTA PARALELA (12) GAME PORT (13) FIREWIRE
+
+38 - 
+
+39 - Velocidade de transferência do USB 4.0 será de 40 Gbps.
+A nova versão pode trabalhar com até 100 W, o suficiente para alimentar um HD externo ou um monitor mediano, por exemplo.
+o padrão poderá ser utilizado para enviar imagens para até dois monitores 4K ao mesmo tempo com frequência de 60 Hz, sem necessidade de compressão.
+
+40 - Bluetooth 5 terá quatro vezes mais alcance e o dobro de velocidade.
+O Bluetooth 5 poderá trabalhar com taxa de 50 Mb/s
+a capacidade de tráfego de dados do Bluetooth 5 será oito vezes maior.
+
