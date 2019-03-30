@@ -12,9 +12,9 @@ using namespace std;
 
 int main(){
 
-    float A;
-    float B;
-    float C;
+    int A;
+    int B;
+    int C;
     cout << "Digite o valor a: " << endl;
     cin >> A;
     cout << "Digite o valor b: " << endl;
@@ -23,15 +23,19 @@ int main(){
     cin >> C;
 
     if((A < B) + C && (B < A) + C && (C < A) + B){
+    	
         if(A == B || A == C || B == C){
             cout << "Triangulo isosceles" << endl;
         }
-            if(A != B && B != C){
-                cout << "Triangulo escaleno" << endl;
-            }
-                if(A == B && B == C){
-                    cout << "Triangulo equilatero" << endl;
-                }
+        else{
+        	
+        	if(A != B && B != C && A != C){
+            cout << "Triangulo escaleno" << endl;
+        	}	
+	        if(A == B && B == C){
+	            cout << "Triangulo equilatero" << endl;
+        	}
+    	}
     }
     else{
         cout << "Valores invalidos para formar um triangulo" << endl;
