@@ -30,7 +30,7 @@ int main(){
         else{
         	
         	if(A != B && B != C && A != C){
-            cout << "Triangulo escaleno" << endl;
+            	cout << "Triangulo escaleno" << endl;
         	}	
 	        if(A == B && B == C){
 	            cout << "Triangulo equilatero" << endl;
