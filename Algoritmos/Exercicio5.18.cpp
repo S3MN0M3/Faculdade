@@ -33,7 +33,7 @@ int main() {
     cout << "Digite o numero de vezes" << endl;
     cin >> nvz;
 
-    if(nvz == 0){
+    if(nvz >= 0 && nvz <= 1){
         float desconto = tabela * 2.5 / 100;
         cout << "Preco de tabela = R$ " << tabela << endl;
         cout << "Num. de vezes: " << nvz << endl;
