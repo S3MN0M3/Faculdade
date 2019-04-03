@@ -4,6 +4,6 @@ GNU é um projeto da FSF
   Linus Torvalds => Criador do Linux => 1993
 
 Multics 1969      1MB
-Unix
+Unix            Denis Ritchie e Thompsom => criadores do Unix
   Kernel
   Programa e biblioteca
