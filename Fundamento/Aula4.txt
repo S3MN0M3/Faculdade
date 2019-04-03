@@ -1,1 +1,3 @@
 GNU é um projeto da FSF
+  Reinplementacao Open Source da Unix
+    Exceto o Kernel
